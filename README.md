@@ -5,10 +5,9 @@ This project aims to implement an Intelligent Traffic Light System utilizing Mac
 
 ## Features
 - **Machine Learning Model**: Utilizes linear regression to predict optimal traffic light timings based on traffic data.
-- **Data Analysis**: Comprehensive analysis of traffic data to derive insights for effective traffic management strategies.
-- **Web Interface**: A user-friendly web interface developed using JavaScript, CSS, and HTML for data visualization.
-- **Firebase Integration**: Project infrastructure includes integration with Firebase database for real-time data storage and retrieval.
-- **GitHub Visualization**: Visualized GitHub data to demonstrate collaboration and contributions to the project.
+- **Arduino Firebase Integration**: Files for integrating Arduino with Firebase for real-time data communication.
+- **Firebase Integration**: Firebase files for real-time data storage and retrieval.
+- **ML Linear Regression**: Files related to the machine learning implementation using linear regression.
 
 ## Project Structure
 - `Arduino_Firebase/`: Directory containing files for Arduino Firebase integration.
