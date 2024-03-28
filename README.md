@@ -14,7 +14,6 @@ This project aims to implement an Intelligent Traffic Light System utilizing Mac
 - `Arduino_Firebase/`: Directory containing files for Arduino Firebase integration.
 - `Firebase/`: Firebase files for real-time data storage and retrieval.
 - `ML_Linear_Regression/`: Files related to the machine learning implementation using linear regression.
-- `github_visualization.ipynb`: Jupyter notebook for visualizing GitHub collaboration data.
 
 ## Usage
 1. **Training the Model**: Run `machine_learning_model.py` to train the machine learning model using traffic data.
