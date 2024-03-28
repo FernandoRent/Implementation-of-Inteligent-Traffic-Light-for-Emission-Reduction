@@ -18,23 +18,23 @@ This project aims to implement an Intelligent Traffic Light System utilizing Mac
 
 ### Realtime Database with Results
 ![database](https://github.com/FernandoRent/Implementation-of-Inteligent-Traffic-Light-for-Emission-Reduction/assets/134562558/61d08ef7-64d1-4a3d-8063-4c18d352040b)
-*Caption: Screenshot of Firebase Realtime Database displaying traffic data and predictions.*
+*Screenshot of Firebase Realtime Database displaying traffic data and predictions.*
 
 ### Web Interface with Sign-in Credentials and Results Display
 ![login](https://github.com/FernandoRent/Implementation-of-Inteligent-Traffic-Light-for-Emission-Reduction/assets/134562558/5b17e5fb-e520-4fa2-a897-1f7b007e3cda)
 ![results](https://github.com/FernandoRent/Implementation-of-Inteligent-Traffic-Light-for-Emission-Reduction/assets/134562558/844af3dd-4f26-4a2a-b431-a7723a2f7f7d)
 
-*Caption: Screenshot of the web interface showing sign-in credentials and displaying traffic flow predictions.*
+*Screenshot of the web interface showing sign-in credentials and displaying traffic flow predictions.*
 
 ### Prototype of Traffic Light
 ![prototype](https://github.com/FernandoRent/Implementation-of-Inteligent-Traffic-Light-for-Emission-Reduction/assets/134562558/eba07ab2-71be-4052-bbf2-bdafabaf668f)
 
-*Caption: Image of the prototype of the traffic light system implemented in the project.*
+*Image of the prototype of the traffic light system implemented in the project.*
 
 ### Machine Learning Model Results
 ![ml](https://github.com/FernandoRent/Implementation-of-Inteligent-Traffic-Light-for-Emission-Reduction/assets/134562558/c22d1683-94f8-423b-8544-012a3f54f9d7)
 
-*Caption: Visualization of machine learning model results showing predicted traffic light timings.*
+*Visualization of machine learning model results showing predicted traffic light timings.*
 
 
 ## Usage
