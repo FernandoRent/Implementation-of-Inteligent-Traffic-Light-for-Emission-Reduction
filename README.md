@@ -11,12 +11,10 @@ This project aims to implement an Intelligent Traffic Light System utilizing Mac
 - **GitHub Visualization**: Visualized GitHub data to demonstrate collaboration and contributions to the project.
 
 ## Project Structure
-- `machine_learning_model.py`: Contains the code for the machine learning model implementation.
-- `data_analysis.ipynb`: Jupyter notebook for performing data analysis and deriving insights.
-- `web_interface/`: Directory containing files for the web interface development.
-- `firebase_integration.py`: Code for integrating Firebase database into the project.
+- `Arduino_Firebase/`: Directory containing files for Arduino Firebase integration.
+- `Firebase/`: Firebase files for real-time data storage and retrieval.
+- `ML_Linear_Regression/`: Files related to the machine learning implementation using linear regression.
 - `github_visualization.ipynb`: Jupyter notebook for visualizing GitHub collaboration data.
-- `traffic_light_image.jpg`: Image file for the project illustration.
 
 ## Usage
 1. **Training the Model**: Run `machine_learning_model.py` to train the machine learning model using traffic data.
