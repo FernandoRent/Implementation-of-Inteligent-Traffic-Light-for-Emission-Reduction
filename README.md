@@ -16,8 +16,11 @@ This project aims to implement an Intelligent Traffic Light System utilizing Mac
 - `ML_Linear_Regression/`: Files related to the machine learning implementation using linear regression.
 
 ## Usage
-1. **Training the Model**: Run `machine_learning_model.py` to train the machine learning model using traffic data.
-2. **Data Analysis**: Explore `data_analysis.ipynb` for in-depth analysis and insights.
-3. **Web Interface**: Access the web interface files in the `web_interface/` directory to visualize traffic data.
-4. **Firebase Integration**: Use `firebase_integration.py` for integrating Firebase database into the project.
-5. **GitHub Visualization**: Explore `github_visualization.ipynb` for visualizing GitHub collaboration data.
+1. **Arduino Firebase Integration**: Access files in the `Arduino_Firebase/` directory for integrating Arduino with Firebase.
+2. **Firebase Integration**: Explore files in the `Firebase/` directory for integrating Firebase database into the project.
+3. **Machine Learning Implementation**: Extract and explore the contents of `Machine Learning.zip` for the machine learning implementation using linear regression.
+
+## Contributors
+- Fernando Renteria 
+- David Mireles
+- Rodrigo Morales
